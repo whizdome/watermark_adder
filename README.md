@@ -20,7 +20,7 @@ A simple desktop application built with Python and Tkinter that allows users to 
 1. Clone this repository or download the source code:
 ```bash
 git clone https://github.com/whizdome/watermark_adder.git
-cd watermark-maker
+cd watermark_adder
 ```
 
 2. Install the required dependencies:
